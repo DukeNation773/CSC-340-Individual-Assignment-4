@@ -1,6 +1,6 @@
 # CSC-340-Individual-Assignment-4
 
-1. Clone the project (or download zip) and open it in NetBeans. Do not clean and build yet!
+1. Clone the project (or download zip) and open it in NetBeans.
 2. Open XAMPP Control Panel Dashboard.
 3. Start Apache and MySQL.
 4. Click on MySQL Admin, to open the database dashboard on your browser.
